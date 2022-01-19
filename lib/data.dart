@@ -34,7 +34,7 @@ class _ProDataState extends State<ProData> {
           onTap: (
             getUserData()
           ),
-          child: Text('Click me'),
+          child: Text('Click me Hard More, break the screen'),
         ),),
       ),
     );
